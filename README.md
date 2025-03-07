@@ -70,7 +70,7 @@
 To run this project locally, follow these steps:
 
 # Clone this repository
-git clone https://github.com/YOUR_USERNAME/MoveIt-Bootstrap.git
+git clone https://github.com/Khanhbroo/Move-it-with-Bootstrap.git
 
 # Navigate into the project folder
 cd MoveIt-Bootstrap
