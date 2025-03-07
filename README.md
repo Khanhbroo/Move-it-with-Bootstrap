@@ -73,7 +73,7 @@ To run this project locally, follow these steps:
 git clone https://github.com/Khanhbroo/Move-it-with-Bootstrap.git
 
 # Navigate into the project folder
-cd MoveIt-Bootstrap
+cd Move-it-with-Bootstrap
 
 # Open the index.html file in your browser
 open index.html  # or manually open it in your preferred browser
